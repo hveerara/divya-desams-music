@@ -6,7 +6,7 @@ import App from '../App';
 describe('App tests', () => {
 	it('should contains the heading 1', () => {
 		render(<App />);
-		const heading = screen.getByText(/Hello, World!/i);
+		const heading = screen.getByText(/Welcome!/i);
 		expect(heading).toBeInTheDocument();
 	});
 });

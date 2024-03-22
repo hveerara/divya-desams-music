@@ -43,9 +43,12 @@
 	},
 	"dependencies": {
 		"postcss-loader": "^8.1.1",
+		"prop-types": "^15.8.1",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
-		"react-hot-loader": "^4.13.1"
+		"react-hot-loader": "^4.13.1",
+		"react-router-dom": "^6.22.3",
+		"semantic-ui-react": "^2.1.5"
 	},
 	"lint-staged": {
 		"*.js": "eslint --cache --fix",

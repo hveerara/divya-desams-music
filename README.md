@@ -1,4 +1,4 @@
-<h1>A Musical Journey to the 108 Divya Desams"</h1>
+<h1>A Musical Journey to the 108 Divya Desams</h1>
 <p>Technologies Used:</p>
 <li>React, Nodejs</li>
 <li>Tailwind CSS for styling</li>
